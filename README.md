@@ -1,16 +1,24 @@
-### Hey, I'm Danwoo 👋
+# Hi, I'm Danwoo 👋
 
-Backend engineer and AI agent enthusiast.
+📍 **Seoul** | 🤖 **Backend Engineer & AI Agent Enthusiast**
 
-Currently experimenting with AI agents that code, write, and deploy — all orchestrated from Telegram.
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-#### 🔧 Currently Building
-- **[AI SOTA Feed](https://ai-sota-feed-bot.vercel.app)** — Automated AI/ML news curation with a 2-tier pipeline
-- **[Blog](https://site-swart-zeta.vercel.app)** — Documenting the process of building with AI agents
+> Building products with AI agents — I give directions from Telegram, agents handle the coding and writing.
 
-#### 📫 Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danwoo-park)
+## Current Projects
 
----
+- 🔍 **[AI SOTA Feed](https://ai-sota-feed-bot.vercel.app)** — Automated AI/ML news curation with a 2-tier pipeline
+- ✍️ **[Blog](https://site-swart-zeta.vercel.app)** — Documenting the process of building with AI agents
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=FutureGadget&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/FutureGadget)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Danwoo_Park-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danwoo-park)
