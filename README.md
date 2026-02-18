@@ -14,6 +14,5 @@ Currently experimenting with AI agents that code, write, and deploy — all orch
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FutureGadget&show_icons=true&theme=gotham&hide=issues" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FutureGadget&theme=gotham" height="160">
+  <img src="https://github-profile-trophy.vercel.app/?username=FutureGadget&theme=darkhub&no-frame=true&column=7" />
 </p>
