@@ -1,6 +1,6 @@
 ### Hey, I'm Danwoo 👋
 
-Backend engineer who builds distributed systems by day and AI-powered side projects by night.
+Backend engineer and AI agent enthusiast.
 
 Currently experimenting with AI agents that code, write, and deploy — all orchestrated from Telegram.
 
@@ -13,6 +13,4 @@ Currently experimenting with AI agents that code, write, and deploy — all orch
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FutureGadget&theme=darkhub&no-frame=true&column=7" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=FutureGadget&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
