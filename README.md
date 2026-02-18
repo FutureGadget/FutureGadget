@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-- 🔍 **[AI SOTA Feed](https://ai-sota-feed-bot.vercel.app)** — Automated AI/ML news curation with a 2-tier pipeline
+- 🔍 **[AI Feed](https://ai-sota-feed-bot.vercel.app)** — Automated AI/ML news curation with a 2-tier pipeline
 - ✍️ **[Blog](https://site-swart-zeta.vercel.app)** — Documenting the process of building with AI agents
 
 ## GitHub Activity
