@@ -12,7 +12,7 @@
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Building products with AI agents — I give directions from Telegram, agents handle the coding and writing.
+> Growing with agents by building products with them.
 
 ## Current Projects
 
